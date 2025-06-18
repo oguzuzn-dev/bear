@@ -89,5 +89,6 @@ python3 main.py
 To test:
 ssh -p <port> <username>@<ip>
 telnet <ip> <port>
-![run](https://github.com/user-attachments/assets/dc031fa2-b986-4474-9ebb-3e0821fa8775)
+```
 
+![run](https://github.com/user-attachments/assets/a0585871-3783-4ad9-bcfa-ed251f987ded)
