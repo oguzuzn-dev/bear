@@ -1,0 +1,4 @@
+asyncssh==2.21.0
+asyncio==3.13.5
+cryptography==45.0.4
+paramiko==3.5.1
