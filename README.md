@@ -1,4 +1,4 @@
-# Bear Honeypot
+# Bear
 
 This project implements a basic honeypot system named "Bear," designed to mimic common services like SSH and Telnet, capturing interaction data from potential attackers. It provides a controlled environment to observe and log unauthorized access attempts and command executions.
 
